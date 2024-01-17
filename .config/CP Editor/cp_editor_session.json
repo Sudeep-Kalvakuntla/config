@@ -1,0 +1,39 @@
+{
+    "currentIndex": 0,
+    "tabs": [
+        {
+            "checkerIndex": 0,
+            "customCheckers": [
+            ],
+            "customCompileCommand": "",
+            "customTimeLimit": -1,
+            "editorAnchor": 0,
+            "editorCursor": 0,
+            "editorText": "",
+            "expected": [
+                ""
+            ],
+            "filePath": "",
+            "horizontalScrollBarValue": 0,
+            "input": [
+                ""
+            ],
+            "isLanguageSet": true,
+            "language": "C++",
+            "problemURL": "",
+            "savedText": "",
+            "testCaseSplitterStates": [
+                [
+                    243,
+                    244,
+                    243
+                ]
+            ],
+            "testcasesIsShow": [
+                true
+            ],
+            "untitledIndex": 1,
+            "verticalScrollbarValue": 0
+        }
+    ]
+}

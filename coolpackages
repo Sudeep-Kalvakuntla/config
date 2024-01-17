@@ -1,0 +1,11 @@
+nmap - port scan
+hashcat - crack hashes
+tshark - tui wifi packet sniffer
+aircrack-ng - crack sniffed wifi packets
+gdb - GNU Debugger
+checksec - check which security features are enabled in an executable file
+pwntools - general purpose pwn tools in python
+what - quickly scan any file for any useful data
+fuck - fuck
+exiftool - check metadata of a file
+binwalk - check any embedded files within another file
